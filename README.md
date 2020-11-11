@@ -37,7 +37,7 @@
 
 ![screenshot](https://github.com/abhishekbu/Interior_design/blob/master/Screenshots/screenshot-1.png)
 
-![screenshot](https://github.com/abhishekbu/Interior_design/blob/master/Screenshots/screenshot-1.png)
+![screenshot](https://github.com/abhishekbu/Interior_design/blob/master/Screenshots/screenshot-2.png)
 
 - You can see the demo at <a href="https://vigilant-thompson-5816f4.netlify.app">Interior Consultant</a>
 - The Navigation responsive dropdown was completely built using CSS
